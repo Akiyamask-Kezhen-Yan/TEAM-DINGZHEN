@@ -1,12 +1,12 @@
 # Site settings
-name: 王潇鹏
-location: 东莞
-company: Unemployed
-position: 网站编辑
-github: https://github.com/ikym
+name: Kezhen Yan/ Haoliang You
+location: University of Pennsylvania
+company: ESE 519
+position: Electronic Piano
+github: https://github.com/akiyamask
 facebook: https://www.facebook.com/
 phone: 132653351111
-email: kli@live.com
+email: kezhen@seas.upenn.edu
 
 baseurl: "/resume"
 
